@@ -2,6 +2,8 @@ Station Gym – API REST (TPE Parte 3)
 
 Este repositorio contiene la API REST pública correspondiente a la tercera parte del Trabajo Práctico Especial de Web 2.
 
+Repositorio a parte 2 corregida: https://github.com/facu-riv/station-gym-final
+
 La API permite integrar datos del proyecto "Station Gym" con aplicaciones de terceros, ofreciendo endpoints para:
 
 Listar actividades del gimnasio
@@ -192,3 +194,4 @@ Código	Significado
 201	Created – recurso creado correctamente
 400	Bad Request – datos inválidos
 404	Not Found – recurso no encontrado
+
